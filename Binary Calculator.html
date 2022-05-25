@@ -1,0 +1,84 @@
+<html>
+ <head>
+        <title>Page Title</title>
+        <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+</head>
+<style>
+    #div {
+    display:flex;
+    margin:40px;
+    background-color:#313235;
+    padding:20px;
+    border-radius:10px;
+}
+label {
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFF;
+    padding-left: 10px;
+    line-height: 1.5;
+}
+body {
+    background-color: #202124;
+}
+h4 {
+    color:#eee;
+}
+input {
+    width:100%;
+    border-radius: 15px;
+    border: 2px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: #424346;
+}
+</style>
+<script>
+    $(function() {
+  $("#celsius").keyup (function() {
+      $("#fahr").val(($("#celsius").val() * 9/5) + 32);
+  });
+  $("#fahr").keyup(function() {
+      $("#celsius").val(($("#fahr").val() - 32) * 5/9 );
+});
+
+$("#base10").keyup(function() {
+    let val = $("#base10").val();
+    let v = convert(val);
+    $("#base2").val(v);    
+});
+
+function convert(num) {
+    let ans = (num == 0) ? 0 : num % 2 + 10 * convert(Math.floor(num/2));
+    return ans;
+};
+});
+</script>
+    
+<div id="div">
+<form>
+    <h4>Decimal to Binary Calculator</h4>
+    <label for="base10">Base 10:</label><br />
+    <input type="number" id="base10" value="2">
+    <br /><br />
+    <label for="base2">Binary:</label><br />
+    <input type="number" id="base2" value="10" readonly>
+</form>
+</div>
+<div id="div">
+
+<form>
+    <h4>Temperature Calculator</h4>
+    <label for="celsius">Celsius:</label><br />
+    <input type="number" id="celsius" value="0">
+    <br /><br />
+    <label for="fahr">Fahrenheit:</label><br />
+    <input type="number" id="fahr" value="32">
+</form>
+</div>
+
+</html>
