@@ -16,6 +16,8 @@
   - Express
   - Jquery Libary
   - Bootstrap Library
+  - HTML
+  - CSS
 
 <h2> 🤳 Connect with me:</h2>
 
