@@ -1,4 +1,4 @@
-<h1>Hi, I'm KingDavid! <br/><a href="https://github.com/kingchi005">Programmer</a>
+<h1>Hi, I'm KingDavid! <br/><a href="https://github.com/kingchi005">Backend Programmer</a>
 <!--   <a href="https://www.linkedin.com/in/joshmadakor/"></a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -11,9 +11,10 @@
   <h2>⚡ Skills</h2>
   - Nodejs
   - JavaScript
-  - PHP
   - EJS
+  - MongoDB Database architect
   - Express
+  - PHP
   - Jquery Libary
   - Bootstrap Library
   - HTML
