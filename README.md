@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PHP Server site (Deployed)</b>
-  - [EazyBundle VTU Website](https://eazybundle.infinityfreeapp.com/)
+  - [EazyBundle VTU Website](https://eazybundle.com.ng/)
 - <b>Full Stack Web App (NodeJS, MongoDB, EJS)</b>
   - [Nodejs Project](https://github.com/kingchi005/Nodejs-site) <b><i>()</b></i>
 
