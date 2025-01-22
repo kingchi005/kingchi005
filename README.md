@@ -1,6 +1,6 @@
 # **KINGDAVID CHIBUEZE EZENNWA**
 
-## Backend?API Developer, FullStack Web & Mobile Application Developer.
+## Backend/API Developer, FullStack Web & Mobile Application Developer.
 
 📞 *(+234) 810 772 1911*
 <br/>
