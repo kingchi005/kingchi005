@@ -1,47 +1,82 @@
-<h1>Hi, I'm KingDavid! <br/><a href="https://github.com/kingchi005">Backend Programmer</a>
-<!--   <a href="https://www.linkedin.com/in/joshmadakor/"></a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
+# **KINGDAVID CHIBUEZE EZENNWA**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## Backend?API Developer, FullStack Web & Mobile Application Developer.
 
-- <b>PHP Server site (Deployed)</b>
-  - [EazyBundle VTU Website](https://eazybundle.cyclic.app/)
-- <b>Full Stack Web App (NodeJS, MongoDB, EJS, mySQL)</b>
-  - [Nodejs Project](https://github.com/kingchi005/Nodejs-site) <b><i>()</b></i>
+📞 *(+234) 810 772 1911*
+<br/>
+kingchi005@gmail.com
+<br/>
+https://linkedin.com/in/kingdavid-ezennwa-63724422a
 
-  <h2>⚡ Skills</h2>
-  - Nodejs
-  - JavaScript
-  - EJS
-  - MongoDB Database architect
-  - Express
-  - PHP
-  - Jquery Libary
-  - Bootstrap Library
-  - HTML
-  - CSS
 
-<h2> 🤳 Connect with me:</h2>
+## DEVELOPMENTAL SKILLS
 
-<!-- [<img align="left" alt="kingchi005 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="kingchi005 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kingchi005 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kingchi005 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+- **Programming Languages**: - JavaScript (TypeScript), Java, PHP, Python
+- **FullStack Skills**: - Vue,  React, Nextjs, Remix.
+- **Backend Skills**: - Nodejs, ExpressJs, PHP,  SpringBoot, Servlet.
+- **Database Skills**: - PostgreSQL, MySQL, MongoDB, SQLite
+- **Mobile App Development Skills**: - React Native, Ionic.
+- **Others**: - Videography, Multimedia. 
 
-[twitter]: https://twitter.com/KingDav37258705
-[whatsapp]: https://wa.me/+2348107721911
-[linkedin]: https://linkedin.com/in/kingdavid-ezennwa-63724422a
 
-<!--
-**kingchi005/kingchi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## EXPERIENCES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Living Word Ministries Int’L** - Multimedia Technologist
+*(AUGUST 2018 - PRESENT)*
+
+### Roles
+- Media Projection
+- Videography
+- Video Streaming.
+
+
+**Agunwami Enterprise** - Backend Developer Intern
+*(JULY 2023 - OCTOBER 2023)*
+- Built backend API for mobile Application.
+- Learned complex Websocket integration to Nodejs API.
+
+**Agunwami Enterprise** - Mobile Application Developer
+*(January 2024 - April 2024)*
+- Continued and completed the mobile Application project.
+
+## EDUCATION
+**Federal University of Technology Owerri - B. Tech
+AUGUST 2021 - PRESENT**
+
+I am currently doing my Bachelor of Technology Degree at Federal University of Technology Owerri in the department of Information Technology of the faculty of Information and Communication Technology,
+
+**Amazing Grace Academy Secondary School - SSCE
+SEPTEMBER 2014- JULY 2020**
+
+I have my WAEC and JAMB Certificate from Secondary School.
+
+
+## AWARDS
+
+**Symposium Web master**
+
+I was awarded this certificate after building the event website used for registration for the third symposium of School of Information and Communication Technology (SICT), Federal University of Technology (FUTO)
+
+**Certificate as a speaker**
+
+
+I was awarded this certificate after my presentation on the web design workshop help for 300 Level students of School of Information and Communication Technology (SICT), Federal University of Technology (FUTO) on the topic User-centered UI / UX design approach.
+
+
+## PAST PROJECTS
+
+### MOBILE APPLICATION PROJECTS
+
+- Devotional Application - https://github.com/kingchi005/incubationIonicApp
+- Chat Application - https://github.com/kingchi005/jiggy
+- Voting Application - https://github.com/kingchi005/Movie-site-React-project (Private Repository)
+
+### WEB APPLICATION PROJECTS
+
+- Job Search Application - https://www.edenjobs.ng/
+- E-commerce Application - https://www.automasterz.ng/
+- FUTO Staff portal- https://staff.futo.edu.ng/
+- Quiz Competition Website - https://pbcambridge.com/ (Backend API)
+- Movie Search Web Application - https://github.com/kingchi005/Movie-site-React-project
+- Symposium Event Website - https://github.com/kingchi005/Symposium-Website
